@@ -1,0 +1,1 @@
+!(d.labor_enabled(0) || d.labor_enabled(10) || d.labor_enabled(44))

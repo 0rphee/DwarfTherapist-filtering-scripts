@@ -1,0 +1,1 @@
+d.is_adult() && d.is_citizen()
